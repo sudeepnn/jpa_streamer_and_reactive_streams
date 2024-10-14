@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.sales.salesapp.dto.salesrecorddto&apos; to &apos;Salesrecorddto&apos;&#x0D;&#x0A;- Original project: &apos;salesapp&apos;&#x0D;&#x0A;- Original element: &apos;com.sales.salesapp.dto.salesrecorddto&apos;&#x0D;&#x0A;- Renamed element: &apos;com.sales.salesapp.dto.Salesrecorddto&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;salesrecorddto&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sales.salesapp.dto{salesrecorddto.java[salesrecorddto" matchStrategy="1" name="Salesrecorddto" qualified="false" references="true" similarDeclarations="false" stamp="1728636003847" textual="false" version="1.0"/>
+</session>

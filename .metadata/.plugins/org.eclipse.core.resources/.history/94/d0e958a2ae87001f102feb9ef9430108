@@ -1,0 +1,5 @@
+package com.sales.salesapp.service;
+
+public class SalesRecordService {
+
+}

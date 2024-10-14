@@ -1,0 +1,5 @@
+package com.sales.salesapp.entity;
+
+public class SalesRecord {
+
+}

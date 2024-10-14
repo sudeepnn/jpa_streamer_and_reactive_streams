@@ -1,0 +1,11 @@
+package com.sales.salesapp.entity;
+
+import org.springframework.data.mongodb.core.mapping.Document;
+
+@Document(collection = "SalesRecords")
+public class SalesRecord {
+	
+	@Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+
+}

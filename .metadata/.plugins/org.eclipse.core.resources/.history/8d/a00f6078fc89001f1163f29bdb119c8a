@@ -1,0 +1,19 @@
+package com.example.demo.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.demo.dao.CarRepo;
+import com.example.demo.entity.CarEntity;
+
+
+@Service
+public class Carservice {
+	@Autowired
+	CarRepo repo;
+	
+	public CarEntity savecarDetails(CarEntity entity){
+		return repo.save(entity);
+	}
+
+}
